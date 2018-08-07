@@ -1,2 +1,2 @@
 # hackNeo.github.io
-UpdatFail的博客
+UpdateFail的博客
